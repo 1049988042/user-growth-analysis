@@ -1,5 +1,8 @@
 # 用户增长与留存分析
 
+> **作品集定位**：用户增长与留存分析的基础技能展示，重点体现 SQL/Python 指标口径、Cohort 留存、渠道转化、客单价与复购。**数据为模拟业务数据**，不代表真实公司经营结果。核心求职作品请同时参考 [Olist](https://github.com/1049988042/olist-delivery-risk-analysis) 与 [Hillstrom](https://github.com/1049988042/hillstrom-marketing-experiment)。
+
+
 这是一个面向数据分析岗位作品集的个人项目，使用 Python、Pandas、MySQL 和 Matplotlib，围绕电商用户从注册到复购的关键路径展开分析：
 
 > 用户拉新 → 用户留存 → 付费转化 → 用户价值 → 复购
